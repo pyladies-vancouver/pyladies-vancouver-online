@@ -84,7 +84,8 @@ html_theme = 'alabaster'
 html_theme_options = {
     'github_user': 'pyladies-vancouver',
     'github_repo': 'pyladies-vancouver',
-    'github_banner': True
+    'github_banner': True,
+    'github_type': 'star',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
