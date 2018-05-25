@@ -37,6 +37,14 @@ Contact
 - Join us in the `PyLadies slack <https://slackin.pyladies.com>`_ `#vancouver` channel.
 
 
+Organizers
+==========
+
+Current organizers are: Aliya, Kiri, Meghan, Maris, Holy, and Mariatta.
+
+Past organizers: Christie, and Caroline.
+
+
 License
 =======
 
