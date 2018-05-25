@@ -27,7 +27,7 @@ To build the documentation locally:
 
       make html
 
-4. View the output at: ``/build/html/index.html``.
+4. View the output at: ``_/build/html/index.html``.
 
 
 License
