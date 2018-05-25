@@ -1,5 +1,5 @@
 Readme
-------
+======
 
 Online resources for `PyLadies Vancouver meetup <https://www.meetup.com/PyLadies-Vancouver/>`_.
 
