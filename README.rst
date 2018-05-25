@@ -1,7 +1,7 @@
 Readme
 ------
 
-Online resources for PyLadies Vancouver meetup.
+Online resources for `PyLadies Vancouver meetup <https://www.meetup.com/PyLadies-Vancouver/>`_.
 
 Building the documentation locally
 ----------------------------------
@@ -28,3 +28,16 @@ To build the documentation locally:
       make html
 
 4. View the output at: ``/build/html/index.html``.
+
+
+License
+-------
+
+`CC-BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_.
+
+
+Code of Conduct
+---------------
+
+Everyone attending PyLadies Vancouver are expected to abide by our `Code of
+Conduct <https://www.meetup.com/PyLadies-Vancouver/about/>`_.
