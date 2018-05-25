@@ -24,6 +24,4 @@ Conduct: https://www.meetup.com/PyLadies-Vancouver/about/
 
 Any questions, please email vancouver@pyladies.com
 
-Thank you to our past and ongoing sponsors:
-
--
+Thank you to our past and ongoing sponsors!
