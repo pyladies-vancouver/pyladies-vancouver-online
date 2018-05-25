@@ -60,6 +60,7 @@ Resources
    formats
    talks
    workshops
+   community-partnerships
    sponsor
    readme
 
