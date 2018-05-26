@@ -8,6 +8,8 @@ A list of past PyLadies Vancouver talks.
 We are always looking for speakers! Please fill in this `form <https://goo.gl/forms/iMUNDPIOg8OxpYoz1>`_
 and we'll get back to you.
 
+You can also `suggest <https://goo.gl/forms/t6RlnipKoDMjqpnH3>`_ a talk topic.
+
 Feb 14, 2018
 ------------
 
