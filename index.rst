@@ -20,6 +20,12 @@ industry are also experienced by nonbinary individuals. Persons with any gender
 identity are welcome to attend our meetups, but should respect that PyLadies
 Vancouver is a place where women's voices are centered.
 
+Want to:
+
+- `give a talk <https://goo.gl/forms/K1gWz91dT1nmE2Eg2>`_?
+- `give a workshop <https://goo.gl/forms/6pcWAF975kNwMTh83>`_?
+- `host us <https://goo.gl/forms/fEWpR1axuhNNs7Dd2>`_?
+
 
 Code of Conduct
 ===============
@@ -40,7 +46,7 @@ Contact
 Organizers
 ==========
 
-Current organizers are: Aliya, Kiri, Meghan, Maris, Holy, and Mariatta.
+Current organizers are: Aliya, Kiri, Meghan, Maris, Holly, and Mariatta.
 
 Past organizers: Christie, and Caroline.
 
