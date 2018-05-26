@@ -25,6 +25,7 @@ Want to:
 - `give a talk <https://goo.gl/forms/K1gWz91dT1nmE2Eg2>`_?
 - `give a workshop <https://goo.gl/forms/6pcWAF975kNwMTh83>`_?
 - `host us <https://goo.gl/forms/fEWpR1axuhNNs7Dd2>`_?
+- `suggest a topic <https://goo.gl/forms/t6RlnipKoDMjqpnH3>`_?
 
 
 Code of Conduct
