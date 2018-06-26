@@ -9,6 +9,40 @@ We are always looking for speakers! Please fill in this `form <https://goo.gl/fo
 and we'll get back to you!
 
 
+Intro to Data Analysis in Python
+---------------------------
+
+When: July 7, 2018
+
+Lead by: Jennnifer Walker
+
+Resource: https://jenfly.github.io/pydata-intro-workshop/
+
+Skill level: Beginner Level.
+
+A little bit of previous experience with Python
+or another coding language would be helpful, but not required!
+
+In this workshop, you will develop skills with powerful data analysis tools
+from Python's rich ecosystem of libraries. If you're wrestling with spreadsheets
+on a regular basis and want to find better ways to analyze and visualize your
+data, handle messy and missing data, and automate repetitive tasks, this workshop
+is for you. If you're coming from another data analysis environment
+(R, Matlab, etc.) and/or you're a Python enthusiast who is curious about Python's
+data analysis capabilities, this workshop is also for you!
+
+Working with real-world data and the Pandas library, you'll learn how to load
+data from a comma-separated values (csv) file, quickly summarize it from many
+different angles, and visualize it in graphs—all with just a few lines of code.
+You'll also learn how to dive into the data for a deeper analysis with techniques
+such as subsets, filters, text processing, and aggregation.
+
+You'll want to bring your laptop for lots of hands-on practice as we work through
+the lessons and exercises. We'll be using Python 3.6, Jupyter Lab, ``numpy``,
+``pandas``, ``matplotlib``, and ``seaborn``. I highly recommend using Anaconda
+to set up your environment, especially if you're new to Python and/or data
+analysis is your main reason for using Python.
+
 Build-a-GitHub-Bot Workshop
 ---------------------------
 
