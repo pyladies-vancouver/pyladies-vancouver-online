@@ -10,7 +10,7 @@ and we'll get back to you!
 
 
 Intro to Data Analysis in Python
----------------------------
+--------------------------------
 
 When: July 7, 2018
 
