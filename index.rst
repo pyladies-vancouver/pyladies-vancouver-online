@@ -69,5 +69,6 @@ Resources
    workshops
    community-partnerships
    sponsor
+   organizers
    readme
 
