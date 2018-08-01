@@ -24,7 +24,11 @@ organizing one meetup, and the others will provide support. Take turns organizin
    just done a code jam, it would be desirable that the next meetup be a talk night
    or a workshop.
 
-2. Find presenters, if doing talk night or workshop
+2. Decide on host and co-host
+
+   Have at least one host and a co-host to balance and spread the workload.
+
+3. Find presenters, if doing talk night or workshop
 
    Sometimes the presenters come to us, sometimes we have to find and ask them to
    present. We now have several forms to make it easier for folks who has presentation
@@ -34,13 +38,13 @@ organizing one meetup, and the others will provide support. Take turns organizin
 
    - `Workshop at Vancouver PyLadies <https://goo.gl/forms/B2e6zr7KgJ0v2yDf1>`_ form.
 
-3. Find a venue
+4. Find a venue
 
    Once the format has been decided, it's time to find a venue that is suitable
    for the format of the meetup.  The `sponsor <sponsor>`_ page has more details
    of what's required of each format.
 
-4. Schedule the meetup
+5. Schedule the meetup
 
    Create the event on meetup.com. Decide on how many RSVPs to accept (usually
    only half shows up). Check if the venue has specific instruction for getting
@@ -48,12 +52,12 @@ organizing one meetup, and the others will provide support. Take turns organizin
    dietary needs. In this case we should set expectation and be clear that
    we can't accommodate everything.
 
-5. Announce the meetup
+6. Announce the meetup
 
    Announce the meetup using @pyladiesvan twitter account, as well as sharing
    the event in #vancouver PyLadies Slack channel.
 
-6. Order food, if we have food sponsor
+7. Order food, if we have food sponsor
 
    In the past, we've ordered from: Dominos, Uncle Fatih, Nuba, Banana Leaf,
    Bali Thai, and at one time, one box of Timbits.
@@ -64,6 +68,7 @@ organizing one meetup, and the others will provide support. Take turns organizin
 Presenter Guideline
 -------------------
 
+To be completed.
 
 
 Working with the Venue
@@ -108,13 +113,35 @@ for non-profit organizations.
 Meetup Logistics
 ----------------
 
-
+To be completed.
 
 
 Day of meetup checklist
 -----------------------
 
+To be completed.
 
+
+New Organizer checklist
+-----------------------
+
+- [ ] Invite to PyLadies Slack team
+
+  - [ ] Add to #vancouver-organizers
+
+  - [ ] Add to #yvr-mail
+
+  - [ ] Add to #vancouver
+
+  - [ ] Welcome them!
+
+- [ ] Add them as Co-organizer in meetup.com
+
+- [ ] Share planning docs
+
+- [ ] Add to pyladies-vancouver GitHub team
+
+- [ ] Answer any questions
 
 
 Credits
