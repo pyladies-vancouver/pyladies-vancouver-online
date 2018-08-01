@@ -86,6 +86,7 @@ html_theme_options = {
     'github_repo': 'pyladies-vancouver',
     'github_banner': True,
     'github_type': 'star',
+    'show_relbars': True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

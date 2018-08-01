@@ -47,9 +47,7 @@ Contact
 Organizers
 ==========
 
-Current organizers are: Aliya, Kiri, Meghan, Maris, Holly, and Mariatta.
-
-Past organizers: Christie, and Caroline.
+Current organizers are: Aliya, Kiri, Caroline, Meghan, Maris, Holly, Karey, Eliza, and Mariatta.
 
 
 License
