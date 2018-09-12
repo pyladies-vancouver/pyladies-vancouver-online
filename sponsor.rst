@@ -12,7 +12,9 @@ with tables or a boardroom will work best.
 
 For talk nights, no tables necessary, but enough seating space for up to 30.
 
-For code jams, no projector is necessary. Projector is needed for workshops and talk nights.
+For code jams, tables, wifi and plentiful power plugs.
+
+A projector is needed for workshops and talk nights.
 
 For food, we try to budget at least $8 per person. On average, we have 20-30 people show up.
 

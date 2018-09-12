@@ -55,7 +55,8 @@ organizing one meetup, and the others will provide support. Take turns organizin
 6. Announce the meetup
 
    Announce the meetup using @pyladiesvan twitter account, as well as sharing
-   the event in #vancouver PyLadies Slack channel.
+   the event in #vancouver PyLadies Slack channel. Try to annouce the meetup at
+   least 2 weeks in advance.
 
 7. Order food, if we have food sponsor
 
@@ -68,7 +69,29 @@ organizing one meetup, and the others will provide support. Take turns organizin
 Presenter Guideline
 -------------------
 
-To be completed.
+Talks can be any length, from a 5 min lightning talk to a 30 min practice of a
+conference presentation.
+
+Talks should:
+
+- [ ] Be related to the tech industry, preferably Python
+- [ ] Not a pitch, marketing or recruitment tool
+- [ ] Follow Code of Conduct
+
+Ideas include but are not limited to:
+
+- walkthrough of a problem you solved recently
+- demo of a project you're working on
+- summary of your favourite Python library
+- guide to how you got to your current technical skill level (including beginner!)
+- discussion of how software affects your field or anything
+
+Ask about speaker preferences, such as:
+
+- Are you taking any questions?
+- Are you OK with people raising hands during the talk, or should they wait until the end?
+- Do you have a Twitter account so we can credit you?
+- Are you OK to be photographed?
 
 
 Working with the Venue
@@ -83,8 +106,7 @@ might be useful::
 
     Hello,
 
-    My name is {{ name }}, and I am one of the organizers of Vancouver PyLadies
-    meetup.
+    I'm {{ name }}, one of the organizers of Vancouver PyLadies meetup.
 
     We're looking for a space to host our {{ format }} for {{ date }}.
     Please let me know if this is something that {{ company }} can accommodate?
@@ -100,6 +122,7 @@ might be useful::
 
     Regards,
     {{ name }}
+    PyLadies Vancouver
 
 
 If your first attempts don’t work, contact other tech companies in your town.
@@ -108,6 +131,71 @@ channels.
 
 Vancouver Public Library also provide `free meeting rooms <http://www.vpl.ca/facilities/branch-meeting-rooms>`_
 for non-profit organizations.
+
+Some things to look for when choosing a venue:
+
+- [ ] Wifi that allows more than HTTP (eg SSH, rsync, FTP etc)
+- [ ] Washrooms
+- [ ] Plates, glasses, cutlery for dinner
+- [ ] Seating for up to 30
+- [ ] Accessible (wheelchair etc)
+- [ ] Near transit
+- [ ] Doesn't need front door runner, can get in via unlocked door or buzzer (optional)
+- For talk nights:
+    - [ ] Projector
+    - [ ] Mic (optional)
+    - [ ] Podium (optional)
+- For Code Jams:
+    - [ ] Tables to sit at
+    - [ ] Lots of power outlets
+- [ ] Twitter handle (optional, so we can thank you on Twitter for sponsoring)
+
+
+Food Sponsorship
+----------------
+
+For food sponsorship, we budget around $8/person for dinner. We usually have
+15-30 people show up, and assume half of the RSVPs on Meetup will attend.
+
+There are 3 options for handling food:
+
+#. PyLadies organizer does the ordering and the sponsor reimburses
+#. PyLadies organizer plans the order and the sponsor pays
+#. Sponsor handles ordering and payment
+
+When ordering food, remember to include the following options:
+
+- Meat
+- Vegetarian
+- Gluten free, if possible
+- Dairy free, if possible
+- Vegan, if possible
+
+We also like to get sponsor's Twitter handle so we can thank them online!
+
+Sometimes we may need to reach out to potential food sponsors, especially if the
+hosting venue can't cover food. The following email template might be useful::
+
+    Hello,
+
+    I'm {{ name }}, one of the organizers of Vancouver PyLadies meetup.
+
+    We're looking for a company to sponsor dinner for our {{ format }}. We usually
+    budget around $100-$250. We'd thank {{ company }} on our meetup page and during the
+    event for their support. Is this something {{ company }} is interested in doing?
+
+    PyLadies is an international mentorship group with a focus on helping more women
+    become active participants and leaders in the Python open-source community. Our
+    mission is to promote, educate and advance a diverse Python community through
+    outreach, education, conferences, events and social gatherings.
+
+    Our meetup page is at: https://www.meetup.com/PyLadies-Vancouver/
+
+    If you have any questions, please do not hesitate to contact us.
+
+    Regards,
+    {{ name }}
+    PyLadies Vancouver
 
 
 Meetup Logistics
@@ -119,8 +207,43 @@ To be completed.
 Day of meetup checklist
 -----------------------
 
-To be completed.
+Pre-meetup preparation
+~~~~~~~~~~~~~~~~~~~~~~
 
+- [ ] Order food
+- [ ] Have Nametags
+- [ ] Print door sign
+
+Opening remarks
+~~~~~~~~~~~~~~~
+
+- Welcome, you all belong here!
+- What is PyLadies
+    - Events: Talks, Tutorials, Hands-on workshops
+- Code of Conduct review
+    - Please read our `Code of Conduct <https://www.meetup.com/PyLadies-Vancouver/about/>`_
+    - Highlight common mistakes
+        - Well-Actuallys - minor corrections irrelevant to the speaker's main point
+        - Subtle -isms - "So easy even my grandmother could do it!"
+        - Feigning Surprise - "You don't know about X?!"
+    - Any concerns or violations can be reported to vancouver@pyladies.com or anonymously via MeetUp’s About page.
+    - Mistakes happen, and we are not here to blame and shame, but to learn and grow.
+- Logistics
+    - Name tags and Photos (red means no photos)
+    - Bathrooms locations
+    - WiFi password
+- Community Annoucements
+    - Upcoming conferences
+    - Upcoming conference proposal deadlines
+    - Other useful meetups happening
+- Thank sponsors of food & space
+
+Closing remarks
+~~~~~~~~~~~~~~~
+
+- Thank space & food sponsors
+- Thank everyone for showing up
+- Announce next meetup, and ask for speakers if relevant
 
 New Organizer checklist
 -----------------------
