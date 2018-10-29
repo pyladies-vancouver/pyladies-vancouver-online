@@ -10,6 +10,15 @@ and we'll get back to you.
 
 You can also `suggest <https://goo.gl/forms/t6RlnipKoDMjqpnH3>`_ a talk topic.
 
+October 24, 2018
+----------------
+
+- `The Serverless Birdnest <https://docs.google.com/presentation/d/1GhymBsuPMVDl_4mB6vDxqTbgD3lCPgFStqa9jef61vA/edit?usp=sharing>`_, Tay Frost
+
+- `The Mood Machine - Building an Emotion Detection system in Python <https://speakerdeck.com/sinbycos/pyladiesvan>`_, Tanushri Chakravorty
+
+- `Open source in Science: How contributability, transparency, and other open source practices can revolutionize scientific research <https://github.com/lisancao/Open-Source-in-Science>`_, Lisa N. Cao
+
 Feb 14, 2018
 ------------
 
