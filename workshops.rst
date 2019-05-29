@@ -8,6 +8,36 @@ A list of past PyLadies Vancouver workshops.
 We are always looking for speakers! Please fill in this `form <https://goo.gl/forms/B2e6zr7KgJ0v2yDf1>`_
 and we'll get back to you!
 
+Hands-on Intro to aiohttp
+-------------------------
+
+When: April 26, 2018
+
+Lead by: Mariatta
+
+Resource: https://us-pycon-2019-tutorial.readthedocs.io/
+
+Skill level: Intermediate
+
+Asyncio is a relatively new feature in Python, with the async and await syntax
+only recently became proper keywords in Python 3.7. Asyncio allows you to write
+asynchronous programs in Python. In this tutorial, we’ll introduce you to an
+asyncio web library called aiohttp.
+
+aiohttp is a library for building web client and server using Python and asyncio.
+We’ll introduce you to several key features of aiohttp; including routing, session
+handling, templating, using middlewares, connecting to database, and making HTTP
+GET/POST requests. We’ll provide best practises in building your aiohttp application,
+as well as how to write tests for your application.
+
+We’ll use all new Python 3.7 features to build web services with asyncio and aiohttp.
+
+Skill level: Intermediate
+This tutorial assumes some experience programming with Python, REST APIs, git,
+GitHub, and installing Python packages using pip.
+
+Bring your own laptop, with your favorite IDE, text editor, and Python 3.7
+pre-installed.
 
 Intro to Data Analysis in Python
 --------------------------------
@@ -48,7 +78,7 @@ Build-a-GitHub-Bot Workshop
 
 When: May 5, 2018
 
-Lead by: Mariatta Wijaya
+Lead by: Mariatta
 
 Resource: https://github-bot-tutorial.readthedocs.io
 

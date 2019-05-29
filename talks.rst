@@ -10,6 +10,40 @@ and we'll get back to you.
 
 You can also `suggest <https://goo.gl/forms/t6RlnipKoDMjqpnH3>`_ a talk topic.
 
+May 15, 2019
+------------
+
+Best of PyCon US 2019.
+
+We watched and discussed the following talks from PyCon US 2019:
+
+- `Releasing the World's Largest Python Site Every 7 Minutes <https://youtu.be/2mevf60qm60>`_, Shuhing Wong
+
+- `The Zen of Python Teams <https://youtu.be/WZ8FEB4J8-c>`_, Adrienne Lowe
+
+- `Supporting Engineers with Mental Health Issues <https://youtu.be/EyHHcuX97io>`_, Jenna Quindica
+
+- Bonus: `Help! I'm now the leader of our Meetup Group! <https://youtu.be/h5YrZt788CY>`_, Faris Chebib
+
+March 11, 2019
+--------------
+
+Best of Women of Data Science 2019.
+
+We watched and discussed several talks from Women of Data Science 2019.
+
+
+Feb 21, 2019
+------------
+
+Best of PyCascades 2018.
+
+We watched and discussed the following talks from PyCascades 2018:
+
+- `The AST and Me <https://youtu.be/Vkgb3fI8d7M>`_, Emily Morehouse-Valcarcel
+
+- `Gradual Typing of Production Applications <https://youtu.be/zKre4DKAB30>`_, Łukasz Langa
+
 October 24, 2018
 ----------------
 
