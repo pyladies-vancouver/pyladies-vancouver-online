@@ -10,6 +10,17 @@ and we'll get back to you.
 
 You can also `suggest <https://goo.gl/forms/t6RlnipKoDMjqpnH3>`_ a talk topic.
 
+June 5th, 2019
+--------------
+
+- `Introduction to automated testing with pytest <https://raphael.codes/blog/customizing-your-pytest-test-suite-part-1/>`_, Raphael Pierzina
+
+- `Mentorship by Trial and Error <https://docs.google.com/presentation/d/1vRpRW8HfUrTfzgLYtnoq_edGzOqAvZrftPaNxH8JBO4/edit#slide=id.p>`_, Monica Raj
+
+- `Canada Learning Code X PyLadies <https://docs.google.com/presentation/d/1oFymLD8CsKp5lYT63cYRH4B5IMYozCnNv7OKUyHQ5dI/edit#slide=id.g28ff0c4c38_0_54>`_, Courtney Kutzleb
+
+- `Python in Film and Games <https://drive.google.com/file/d/1sUpdPUY2xAwQC-33SDQWzlYMJ8yMiUNM/view>`_, McKendree Schilthuis
+
 May 15, 2019
 ------------
 
